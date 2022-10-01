@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Valnet.Cart.API/bin/Debug/net6.0
+/Valnet.Cart.API/obj
