@@ -11,7 +11,8 @@ Validation is missing
 Provided the estimation considering the test case coverage and validation along with development
 
 ## Completed Items
-
+Returning Cart Item
+Adding Cart Item
 
 ## Improvements
 Implement Repository pattern to seperate the business logic from controller
@@ -26,4 +27,5 @@ Throw User Firendly Erros for the bad responses
 
 ### API endpoint is ready for production
 https://localhost:7180/CartApi/1/cart
+
 
