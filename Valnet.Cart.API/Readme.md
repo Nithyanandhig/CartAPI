@@ -1,14 +1,10 @@
-# Valnet back-end test assignment
+#Steps to test the endpoint
 
-## Functional Gaps
+Please run the below endpoint to import the test data
 
+https://localhost:7180/CartApi/import
 
-## Completed Items
+#GET <host>/api/{userId}/cart -> returns Cart Example
 
-
-## Improvements
-
-
-
-### API endpoint is ready for production
+https://localhost:7180/CartApi/1/cart
 
